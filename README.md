@@ -1,7 +1,8 @@
 # LiveStockApi
 
 
-
+Company |  Symbol | 
+--- | --- |
 State Bank of India |  SBIN.NS | 
 --- | --- |
 Bank of America Corporation |  BAC | 
