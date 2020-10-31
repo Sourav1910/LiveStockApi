@@ -3,11 +3,11 @@
 1. Instructions
 --------------------------------------------------------------------------------
 
-* Step - 1 --> The root URL of the API is "http://stockapilive-env.eba-yx2ch2r9.us-east-1.elasticbeanstalk.com/?companycCode=" .
+* Step - 1 --> The root URL of the API is "https://live-stock-api.herokuapp.com/?companycCode=" .
 
 * Step - 2 --> To get the stock information of any company you need their symbol which can be obtained either on the internet or in below table.
 
-* Step - 3 --> Once you have the symbol of the company then you need to attach that symbol with the root URL mentioned in Step 1 so as to obtain a URL like this "http://stockapilive-env.eba-yx2ch2r9.us-east-1.elasticbeanstalk.com/?companycCode=SBIN.NS"  (Company chosen in the example is State Bank of India whose symbol is "SBIN.NS").
+* Step - 3 --> Once you have the symbol of the company then you need to attach that symbol with the root URL mentioned in Step 1 so as to obtain a URL like this "https://live-stock-api.herokuapp.com/?companycCode=SBIN.NS"  (Company chosen in the example is State Bank of India whose symbol is "SBIN.NS").
 
 * Step - 4 --> On making a request to the URL like in Step 3 , you will receive data of the mentioned company in JSON .
 
