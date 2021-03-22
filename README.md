@@ -1,6 +1,6 @@
 # LiveStockApi
 --------------------------------------------------------------------------------
-1. Instructions
+## 1. Instructions
 --------------------------------------------------------------------------------
 
 * Step - 1 --> The root URL of the API is "https://live-stock-api.herokuapp.com/?companycCode=" .
@@ -14,7 +14,7 @@
 
 
 --------------------------------------------------------------------------------
-2. Company List with their Symobls
+## 2. Company List with their Symobls
 --------------------------------------------------------------------------------
 
 
@@ -38,3 +38,12 @@ State Bank of India |  SBIN.NS |
 |Nokia Corporation | NOK | 
 |CVS Health Corp | CVS | 
 
+
+---
+## Screenshots(PostMan)
+### Live Stock Data for Bank Of America
+![](/images/img1.PNG)
+
+
+### Live Stock Data for Amazon
+![](/images/img2.PNG)
